@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-53\\Desktop\\Linq\\Ferreteria\\Ferreteria.csproj": {}
+    "C:\\Users\\Brayan17King\\Downloads\\Ferreteria\\Ferreteria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-53\\Desktop\\Linq\\Ferreteria\\Ferreteria.csproj": {
+    "C:\\Users\\Brayan17King\\Downloads\\Ferreteria\\Ferreteria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-53\\Desktop\\Linq\\Ferreteria\\Ferreteria.csproj",
+        "projectUniqueName": "C:\\Users\\Brayan17King\\Downloads\\Ferreteria\\Ferreteria.csproj",
         "projectName": "Ferreteria",
-        "projectPath": "C:\\Users\\APM02-53\\Desktop\\Linq\\Ferreteria\\Ferreteria.csproj",
-        "packagesPath": "C:\\Users\\APM02-53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-53\\Desktop\\Linq\\Ferreteria\\obj\\",
+        "projectPath": "C:\\Users\\Brayan17King\\Downloads\\Ferreteria\\Ferreteria.csproj",
+        "packagesPath": "C:\\Users\\Brayan17King\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brayan17King\\Downloads\\Ferreteria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-53\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Brayan17King\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
