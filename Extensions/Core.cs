@@ -57,7 +57,7 @@ public class Core
         Console.Clear();
         var Product = from s in _Products
                       select new { s.Id, s.NameProduct, s.UnitPrice, s.Quantity, s.StockMax, s.StockMin };
-        Console.WriteLine("=🔨🪓⛏️🪚🔧🪛=Hardware Products=🔨🪓⛏️🪚🔧🪛=\n");
+        Console.WriteLine("=🪓 🪚 🔧 🪛 = Hardware Products = 🪓 🪚 🔧 🪛=\n");
         foreach (var item in Product)
         {
             Console.WriteLine($"🔖Cod: {item.Id}\n📦Product: {item.NameProduct}\n💸Precio: {item.UnitPrice}\n🔢Cantidad: {item.Quantity}\n📈StockMax: {item.StockMax}\n📉StockMin: {item.StockMin}\n");
